@@ -1,0 +1,24 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category name="イベント" colour="120">
+    <block type="on_item_use"></block>
+    <block type="on_block_break"></block>
+    <block type="on_entity_interact"></block>
+    <block type="on_player_sneak"></block>
+  </category>
+  <category name="アクション" colour="160">
+    <block type="show_title"></block>
+    <block type="give_item"></block>
+    <block type="teleport_player"></block>
+    <block type="send_message"></block>
+  </category>
+  <category name="条件分岐" colour="210">
+    <block type="check_has_item"></block>
+    <block type="check_position"></block>
+    <block type="check_health"></block>
+  </category>
+  <category name="時間" colour="290">
+    <block type="delay_action"></block>
+    <block type="check_time"></block>
+    <block type="interval_action"></block>
+  </category>
+</xml> 

@@ -1,0 +1,7 @@
+node_modules
+build
+skills
+.env
+.env.*
+!.env.example
+AGENTS.md
